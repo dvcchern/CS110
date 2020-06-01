@@ -23,6 +23,7 @@
 
 ## Course Schedule
 | Week 1 | 6.15 | M01 - Ch 1 Introduction to Computers and Java p.1     |
+|--------|-----:|-------------------------------------------------------|
 |        | 6.17 | M02 - Ch 2 Java Fundamentals p.27                     |
 | Week 2 | 6.22 | M03 - Ch 3 Decision Structures p.111                  |
 |        | 6.24 | M04 - Ch 4 Loops and Files p.189                      |

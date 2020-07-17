@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-enum Day { MONDAY=0, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY };
+enum Weekdays { MONDAY=0, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY };
 const string DayName[] = { "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY" };
 
 int main() {
@@ -11,15 +11,15 @@ int main() {
 	double rainfall[NUM_DAYS]; // To hold rainfall for each day
 
 	// Get the rainfall for each weekday.
-	for (int index = MONDAY; index <= FRIDAY; index++) {
-		cout << "Enter the sales for " << DayName[index] << ": ";
-		cin >> rainfall[index];
+	for (int day = MONDAY; day <= FRIDAY; day++) {
+		cout << "Enter the sales for " << DayName[day] << ": ";
+		cin >> rainfall[day];
 	}
 	
 	// Output the rainfall of each day
 	cout << "\nThe week's rainfalls are:\n";
-	for(int index = MONDAY; index <= FRIDAY; index++) 
-	    cout << setw(12) << right << DayName[index]
+	for(int day = MONDAY; day <= FRIDAY; day++) 
+	    cout << setw(12) << right << DayName[day]
 	         << setw(8) << fixed << setprecision(2) 
-	         << right << rainfall[index] << endl;
+	         << right << rainfall[day] << endl;
 }

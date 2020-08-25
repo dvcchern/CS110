@@ -23,58 +23,58 @@
 
 ## Course Schedule
     Tue Sep 1, 2020	
-	Quiz (module) 1 Intro to C++
+        Quiz (module) 1 Intro to C++
 	
     Tue Sep 8, 2020	
-	AS 1 - Intro to C++
+        AS 1 - Intro to C++
 	
     Tue Sep 15, 2020
-	Quiz (module) 2 C++ Intro
-	AS 2 - Expressions and Interactivities
+        Quiz (module) 2 C++ Intro
+        AS 2 - Expressions and Interactivities
 	
     Tue Sep 22, 2020
-	Quiz (module) 3 Making Decision
-	AS3 - Making Decisions
+        Quiz (module) 3 Making Decision
+        AS3 - Making Decisions
 	
     Tue Sep 29, 2020
-	Quiz (module) 4 Loops
-	AS4 - Loops
+        Quiz (module) 4 Loops
+        AS4 - Loops
 	
     Tue Oct 6, 2020
-	Quiz (module) 5 Files
-	Midterm (M01 - M05) - Remotely Proctored (Remotely Proctored)
+        Quiz (module) 5 Files
+        Midterm (M01 - M05) - Remotely Proctored (Remotely Proctored)
 	
     Tue Oct 13, 2020	
-	AS5 - Files
+        AS5 - Files
 	
     Tue Oct 20, 2020
-	Quiz (module) 6 Functions
-	AS6 - Functions
+        Quiz (module) 6 Functions
+        AS6 - Functions
 	
     Tue Oct 27, 2020
-	Quiz (module) 7 Arrays
-	AS7 - Arrays
+        Quiz (module) 7 Arrays
+        AS7 - Arrays
 	
     Tue Nov 3, 2020
-    	Quiz (module) 8 Searchings & Sortings
-	AS8 - Sorting
+        Quiz (module) 8 Searchings & Sortings
+        AS8 - Sorting
 	
     Tue Nov 10, 2020
-    	Quiz (module) 9 Pointers
-	AS9 - Pointers
+        Quiz (module) 9 Pointers
+        AS9 - Pointers
 	
     Tue Nov 17, 2020
-    	Quiz (module) 10 Charters & Strings
-	AS10 - Characters & Strings
+        Quiz (module) 10 Charters & Strings
+        AS10 - Characters & Strings
 	
     Tue Nov 24, 2020
-	Quiz (module) 11 Struct
-	AS11 - Struct
+        Quiz (module) 11 Struct
+        AS11 - Struct
 	
     Tue Dec 1, 2020	
-	AS 12 - Recursion
+        AS 12 - Recursion
 	
     Tue Dec 8, 2020	
-	AS 13 Pointer to Struct and Bits & Bytes
-	Final Exam (m06 - m13) Remotely Proctored (Remotely Proctored)
+        AS 13 Pointer to Struct and Bits & Bytes
+        Final Exam (m06 - m13) Remotely Proctored (Remotely Proctored)
 

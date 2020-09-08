@@ -43,8 +43,17 @@ Module 3 Making Decisions
 
 ### Lecture Source Codes
     Examples: 
+    foolproof.cpp
+    foolproofswitch.cpp
+    if_paradox.cpp
+    ifstatment.cpp
     predication_orientation.cpp // comparison operator orientation
     proper_range_exp.cpp
+    scharlarship.cpp
+    string_cmp.cpp
+    ternary_op.cpp
+    test_user_interface.cpp
+    user_menu.cpp
     scholarship.cpp   // human fallacy of composition, i.e. informal logic
     string_cmp.cpp
     test_user_interface.cpp

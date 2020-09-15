@@ -37,6 +37,6 @@ Module 5 Text Files
     Pr-5-23.cpp
     Pr-5-24.cpp
     read_file_position.cpp
-    as5d_find_pattern.cpp
+    as5d_hint.cpp
     Pr12-9.cpp
     as5c_from_pr12-9.cpp

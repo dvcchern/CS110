@@ -22,59 +22,59 @@
     Module 12 CH 19.1 ~ 19.4 Introduction to Recursion 1121 <==
 
 ## Course Schedule
-    Tue Sep 1, 2020	
+    Tue Aug 31, 2021	
         Quiz (module) 1 Intro to C++
 	
-    Tue Sep 8, 2020	
+    Tue Sep 7, 2021	
         AS 1 - Intro to C++
 	
-    Tue Sep 15, 2020
+    Tue Sep 14, 2021
         Quiz (module) 2 C++ Intro
         AS 2 - Expressions and Interactivities
 	
-    Tue Sep 22, 2020
+    Tue Sep 21, 2021
         Quiz (module) 3 Making Decision
         AS3 - Making Decisions
 	
-    Tue Sep 29, 2020
+    Tue Sep 28, 2021
         Quiz (module) 4 Loops
         AS4 - Loops
 	
-    Tue Oct 6, 2020
+    Tue Oct 5, 2021
         Quiz (module) 5 Files
         Midterm (M01 - M05) - Remotely Proctored (Remotely Proctored)
 	
-    Tue Oct 13, 2020	
+    Tue Oct 12, 2021	
         AS5 - Files
 	
-    Tue Oct 20, 2020
+    Tue Oct 19, 2021
         Quiz (module) 6 Functions
         AS6 - Functions
 	
-    Tue Oct 27, 2020
+    Tue Oct 26, 2021
         Quiz (module) 7 Arrays
         AS7 - Arrays
 	
-    Tue Nov 3, 2020
+    Tue Nov 2, 2021
         Quiz (module) 8 Searchings & Sortings
         AS8 - Sorting
 	
-    Tue Nov 10, 2020
+    Tue Nov 9, 2021
         Quiz (module) 9 Pointers
         AS9 - Pointers
 	
-    Tue Nov 17, 2020
+    Tue Nov 16, 2021
         Quiz (module) 10 Charters & Strings
         AS10 - Characters & Strings
 	
-    Tue Nov 24, 2020
+    Tue Nov 23, 2021
         Quiz (module) 11 Struct
         AS11 - Struct
 	
-    Tue Dec 1, 2020	
+    Tue Nov 30, 2021	
         AS 12 - Recursion
 	
-    Tue Dec 8, 2020	
+    Tue Dec 7, 2021	
         AS 13 Pointer to Struct and Bits & Bytes
         Final Exam (m06 - m13) Remotely Proctored (Remotely Proctored)
 

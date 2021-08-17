@@ -22,7 +22,7 @@ int main()
 	
 	// Depending on the compiler, Output maybe different for I/O driver handling
 	// as Queue - left to right order; or Stack - right to left order
-    num = 4;
+    num = 4; // reset
 	cout << num;
 	cout << num++;
 	cout << num;
